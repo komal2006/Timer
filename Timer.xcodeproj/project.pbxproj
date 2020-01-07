@@ -14,6 +14,7 @@
 		39C03A6823C40DE4005051B7 /* Timer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 39C03A6623C40DE4005051B7 /* Timer.xcdatamodeld */; };
 		39C03A6A23C40DE5005051B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39C03A6923C40DE5005051B7 /* Assets.xcassets */; };
 		39C03A6D23C40DE5005051B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39C03A6B23C40DE5005051B7 /* LaunchScreen.storyboard */; };
+		39C03A7523C40EA8005051B7 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C03A7423C40EA8005051B7 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		39C03A6923C40DE5005051B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39C03A6C23C40DE5005051B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39C03A6E23C40DE5005051B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39C03A7423C40EA8005051B7 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				39C03A6B23C40DE5005051B7 /* LaunchScreen.storyboard */,
 				39C03A6E23C40DE5005051B7 /* Info.plist */,
 				39C03A6623C40DE4005051B7 /* Timer.xcdatamodeld */,
+				39C03A7423C40EA8005051B7 /* SecondViewController.swift */,
 			);
 			path = Timer;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				39C03A6223C40DE4005051B7 /* ViewController.swift in Sources */,
 				39C03A5E23C40DE4005051B7 /* AppDelegate.swift in Sources */,
 				39C03A6023C40DE4005051B7 /* SceneDelegate.swift in Sources */,
+				39C03A7523C40EA8005051B7 /* SecondViewController.swift in Sources */,
 				39C03A6823C40DE4005051B7 /* Timer.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
