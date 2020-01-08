@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         timer.invalidate()
         firstLabel.text = "TIME OVER"
         self.dismiss(animated: false, completion: nil)
-       // print("Time over")
+        print("Time over")
     }
     else
     {
